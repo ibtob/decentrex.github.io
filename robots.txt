@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /templates/
+Disallow: /help/
+Sitemap: https://decentrex.com/sitemap.xml
