@@ -10,7 +10,7 @@ module.exports = {
   ],
   ethTestnet: false,
   ethProvider: 'http://localhost:8545',
-  ethGasPrice: 4200000000,
+  ethGasPrice: 20000000000,
   ethAddr: '0x0000000000000000000000000000000000000000',
   ethAddrPrivateKey: '',
   gasApprove: 250000,
